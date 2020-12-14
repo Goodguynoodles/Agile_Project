@@ -1,2 +1,1 @@
-<img class="img" src="./img/background.jpg">
-<img class="img" src="./img/background.jpg">
+<img class="boi" src="./img/background.jpg" width="2020">
