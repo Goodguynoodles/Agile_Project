@@ -23,13 +23,16 @@
       <span class="navbar-text">
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
         <li class="nav-item">
-          <a class="nav-link" href="#"><h6 class="color-red font-chivo">Feest</h6></a>
+          <a class="nav-link" href="index.php?content=Feest"><h6 class="color-red font-chivo">Feest</h6></a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#"><h6 class="color-red font-chivo">Webshop</h6></a>
+          <a class="nav-link" href="index.php?content=overons"><h6 class="color-red font-chivo">Over ons</h6></a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="index.php?content=game"><h6 class="color-red font-chivo">Game</h6></a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="index.php?content=info"><h6 class="color-red font-chivo">info</h6></a>
         </li>
       </ul>
       </span>
