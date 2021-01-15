@@ -7,10 +7,10 @@
     <div class="collapse navbar-collapse" id="navbarText">
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
         <li class="nav-item">
-          <a class="nav-link" href="#"><h6 class="color-red font-chivo">JAAR VAN DE OS</h6></a>
+          <a class="nav-link" href="#"><h6 class="color-red font-chivo">Jaar van de Os</h6></a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#"><h6 class="color-red font-chivo">HOROSCOOPS</h6></a>
+          <a class="nav-link" href="#"><h6 class="color-red font-chivo">Horoscoop</h6></a>
         </li>
       </ul>
 
@@ -23,10 +23,13 @@
       <span class="navbar-text">
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
         <li class="nav-item">
-          <a class="nav-link" href="#"><h6 class="color-red font-chivo">FEEST</h6></a>
+          <a class="nav-link" href="#"><h6 class="color-red font-chivo">Feest</h6></a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#"><h6 class="color-red font-chivo">WEBSHOP</h6></a>
+          <a class="nav-link" href="#"><h6 class="color-red font-chivo">Webshop</h6></a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="index.php?content=game"><h6 class="color-red font-chivo">Game</h6></a>
         </li>
       </ul>
       </span>
