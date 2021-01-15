@@ -1,0 +1,35 @@
+
+<nav class="navbar sticky-top navbar-expand-lg bg-white">
+  <div class="container-fluid">
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarText">
+      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+        <li class="nav-item">
+          <a class="nav-link" href="#"><h6 class="color-red font-chivo">JAAR VAN DE OS</h6></a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#"><h6 class="color-red font-chivo">HOROSCOOPS</h6></a>
+        </li>
+      </ul>
+
+      <ul class="navbar-nav abs-center-x">
+            <li class="nav-item">
+                <a class="nav-link" href="#"><h3 class="color-dark-red font-chivo">Chinees Nieuwjaar</h3></a>
+            </li>
+        </ul>
+
+      <span class="navbar-text">
+      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+        <li class="nav-item">
+          <a class="nav-link" href="#"><h6 class="color-red font-chivo">FEEST</h6></a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#"><h6 class="color-red font-chivo">WEBSHOP</h6></a>
+        </li>
+      </ul>
+      </span>
+    </div>
+  </div>
+</nav>
