@@ -53,12 +53,13 @@ body, html {
   }
   
   .hero-image {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("/img/chinese-new-year.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("../img/chinese-new-year.jpg");
     height: 60%;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
+    margin-bottom: 20px;
   }
   
   .hero-text {
@@ -89,6 +90,17 @@ body, html {
   .custom-border {
     border-style: solid;
     border-color: red white #383838 white;
+  }
+
+  .footer1 {
+    margin-top: 10px;
+    background-color: #dd0000;
+  }
+
+  .hometext {
+    background-color: rgba(173, 0, 0, 0.5);
+    color: white;
+    margin-left: 200px
   }
 
   
