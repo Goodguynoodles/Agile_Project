@@ -23,7 +23,10 @@
       <span class="navbar-text">
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
         <li class="nav-item">
-          <a class="nav-link" href="index.php?content=Feest"><h6 class="color-red font-chivo">Feest</h6></a>
+          <a class="nav-link" href="index.php?content=home"><h6 class="color-red font-chivo">Home</h6></a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="index.php?content=feest"><h6 class="color-red font-chivo">Feest</h6></a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="index.php?content=overons"><h6 class="color-red font-chivo">Over ons</h6></a>
@@ -33,6 +36,9 @@
         </li>
         <li class="nav-item">
           <a class="nav-link" href="index.php?content=info"><h6 class="color-red font-chivo">info</h6></a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="index.php?content=contact"><h6 class="color-red font-chivo">contact</h6></a>
         </li>
       </ul>
       </span>
