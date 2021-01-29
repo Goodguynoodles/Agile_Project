@@ -26,7 +26,7 @@
           <a class="nav-link" href="index.php?content=home"><h6 class="color-red font-chivo">Home</h6></a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="index.php?content=feest"><h6 class="color-red font-chivo">Feest</h6></a>
+          <a class="nav-link" href="index.php?content=festival"><h6 class="color-red font-chivo">Feest</h6></a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="index.php?content=overons"><h6 class="color-red font-chivo">Over ons</h6></a>
